@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "meetnotes",
+      "runtimeExecutable": "env",
+      "runtimeArgs": ["MEETNOTES_NO_BROWSER=1", "uv", "run", "meetnotes"],
+      "port": 8756
+    }
+  ]
+}

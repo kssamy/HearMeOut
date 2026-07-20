@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+*.db
+*.db-wal
+*.db-shm
+.DS_Store
+.claude/settings.local.json
